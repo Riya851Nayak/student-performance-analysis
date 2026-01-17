@@ -10,6 +10,8 @@ This project analyzes student performance using Exploratory Data Analysis (EDA).
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Python
+-Exploratory Data Analysis (EDA)
 
 ## Key Insights
 - Students who completed test preparation courses scored higher.
